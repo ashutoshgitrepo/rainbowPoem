@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and Unicorn
 Voilet
 Indigo
 blue
@@ -6,4 +6,5 @@ green
 yellow
 orange
 red
-this is rainbow colours in sequence
+this is rainbow colours in sequence and 
+The Unicorn
